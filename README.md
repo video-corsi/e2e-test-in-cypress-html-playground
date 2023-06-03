@@ -1,6 +1,6 @@
-# E2E Test in Cypress - React Playground
+# E2E Test in Cypress - HTML / TypeScript Playground
 
-A simple playground with 2 routes to create your first E2E tests in React and Cypress.
+A simple playground to play with Cypress in HTML and TypeScript
 
 This is a repository demo for the video courses ["Scrivere E2E test con Cypress"](https://www.fabiobiondi.dev/video-courses/scrivere-e2e-test-con-cypress) (italian)
 
@@ -22,7 +22,7 @@ npm run e2e
 
 ### How to write a test
 
-Update `pages/*.tsx` and write your tests in `cypress/e2e/*.cy.ts`
+Update `index.html` or `src/main.ts` and write your tests in `cypress/e2e/*.cy.ts`
 
 
 
