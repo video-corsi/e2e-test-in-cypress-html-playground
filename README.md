@@ -6,7 +6,7 @@ This is a repository demo for the video courses ["Scrivere E2E test con Cypress"
 
 
 
-### Run React Project
+### Run Project
 
 ```bash
 npm run dev
