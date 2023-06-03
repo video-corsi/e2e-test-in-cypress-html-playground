@@ -14,7 +14,8 @@ npm run dev
 
 ### Run Cypress
 
-• Run Cypress UI and select a test from the list
+• Run Cypress UI, select "E2E Testing" and run a test (`*.cy.ts`) 
+
 
 ```bash
 npm run e2e
